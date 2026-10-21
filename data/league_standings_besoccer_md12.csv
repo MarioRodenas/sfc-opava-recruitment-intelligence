@@ -1,0 +1,49 @@
+﻿Split,Rank,Team,Points,Played,Wins,Draws,Losses,GF,GA
+Overall,1,Karviná,24,11,8,0,3,23,12
+Overall,2,Vysočina Jihlava,20,11,6,2,3,19,12
+Overall,3,FK Dukla Praha,20,11,6,2,3,21,18
+Overall,4,Viagem Ústí nad Labem,19,11,5,4,2,19,13
+Overall,5,Vlašim,18,11,5,3,3,20,14
+Overall,6,Příbram,17,11,4,5,2,20,18
+Overall,7,Baník Ostrava II,14,11,4,2,5,19,16
+Overall,8,FC Táborsko,14,11,3,5,3,15,15
+Overall,9,Viktoria Žižkov,14,11,4,2,5,12,19
+Overall,10,Slavia Praha II,13,11,3,4,4,20,19
+Overall,11,SK Kladno,13,11,3,4,4,16,17
+Overall,12,SFC Opava,13,11,3,4,4,17,20
+Overall,13,Česká Lípa,12,11,3,3,5,14,20
+Overall,14,Prostějov,10,11,1,7,3,15,16
+Overall,15,Třinec,10,11,2,4,5,13,20
+Overall,16,SKHS Kroměříž,6,11,1,3,7,9,23
+Home,1,Karviná,15,5,5,0,0,12,2
+Home,2,FK Dukla Praha,15,6,5,0,1,14,7
+Home,3,Vlašim,13,5,4,1,0,13,5
+Home,4,Vysočina Jihlava,10,6,3,1,2,9,7
+Home,5,SK Kladno,8,5,2,2,1,9,6
+Home,6,Slavia Praha II,8,6,2,2,2,12,11
+Home,7,Viagem Ústí nad Labem,8,6,2,2,2,12,11
+Home,8,Viktoria Žižkov,8,5,2,2,1,8,7
+Home,9,SFC Opava,8,6,2,2,2,9,9
+Home,10,Prostějov,7,6,1,4,1,10,9
+Home,11,Příbram,7,5,2,1,2,8,9
+Home,12,FC Táborsko,5,5,1,2,2,8,7
+Home,13,Česká Lípa,5,5,1,2,2,6,9
+Home,14,Baník Ostrava II,5,6,1,2,3,6,9
+Home,15,Třinec,5,5,1,2,2,4,7
+Home,16,SKHS Kroměříž,5,6,1,2,3,5,12
+Away,1,Viagem Ústí nad Labem,11,5,3,2,0,7,2
+Away,2,Vysočina Jihlava,10,5,3,1,1,10,5
+Away,3,Příbram,10,6,2,4,0,12,9
+Away,4,Baník Ostrava II,9,5,3,0,2,13,7
+Away,5,Karviná,9,6,3,0,3,11,10
+Away,6,FC Táborsko,9,6,2,3,1,7,8
+Away,7,Česká Lípa,7,6,2,1,3,8,11
+Away,8,Viktoria Žižkov,6,6,2,0,4,4,12
+Away,9,Slavia Praha II,5,5,1,2,2,8,8
+Away,10,Vlašim,5,6,1,2,3,7,9
+Away,11,SFC Opava,5,5,1,2,2,8,11
+Away,12,Třinec,5,6,1,2,3,9,13
+Away,13,SK Kladno,5,6,1,2,3,7,11
+Away,14,FK Dukla Praha,5,5,1,2,2,7,11
+Away,15,Prostějov,3,5,0,3,2,5,7
+Away,16,SKHS Kroměříž,1,5,0,1,4,4,11
